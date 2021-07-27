@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/ParametroArray/ParametroArray/bin/Debug/ParametroArray.exe
+/Users/marcohuerta/Projects/ParametroArray/ParametroArray/bin/Debug/ParametroArray.pdb
+/Users/marcohuerta/Projects/ParametroArray/ParametroArray/obj/Debug/ParametroArray.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/ParametroArray/ParametroArray/obj/Debug/ParametroArray.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/ParametroArray/ParametroArray/obj/Debug/ParametroArray.exe
+/Users/marcohuerta/Projects/ParametroArray/ParametroArray/obj/Debug/ParametroArray.pdb
